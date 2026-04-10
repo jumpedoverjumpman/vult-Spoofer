@@ -74,7 +74,7 @@
 
 ### **v2 Supported Platforms (Extended)**
 
-  * Epic Games Launcher like FORTNITE (Soft bans)
+  * Epic Games Launcher (Soft bans)
   * Origin / EA App & Ubisoft Connect
   * Deeper Discord/Social media device flags
   * Most indie game HWID protection systems
