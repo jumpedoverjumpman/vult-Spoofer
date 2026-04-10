@@ -104,5 +104,5 @@ This project is intended to demonstrate how hardware identification can be manag
 
 -----
 
-**Developed with ❤️ by [Vultures](https://www.google.com/search?q=https://github.com/jumpedoverjumpman)**
+**Developed with ❤️ by [Vultures](https://github.com/jumpedoverjumpman)**
 
