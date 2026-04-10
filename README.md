@@ -1,14 +1,19 @@
 # 🦅 Vult-Spoofer: Advanced HWID Management & Anti-Ban Utility
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/Windows-Batch-blue?style=for-the-badge\&logo=windows\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Windows-Batch-blue%3Fstyle%3Dfor-the-badge%26logo%3Dwindows%26logoColor%3Dwhite)" alt="Platform"\>
-\<img src="[https://img.shields.io/badge/License-MIT-red?style=for-the-badge](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)" alt="License"\>
-\<img src="[https://img.shields.io/badge/Status-Functional-green?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/Status-Functional-green%3Fstyle%3Dfor-the-badge)" alt="Status"\>
-\</p\>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge" alt="Maintained">
+</p>
 
 **Vult-Spoofer** is a high-performance hardware identification management tool designed to bypass device-level restrictions and bans. Engineered for efficiency, it requires no system resets—only a standard restart to apply deep-level hardware modifications.
 
 -----
+### 📺 Video Showcase
+
+[![Vult-RAT Showcase](https://img.youtube.com/vi/QdYh2lCtzf0/maxresdefault.jpg)](https://www.youtube.com/watch?v=QdYh2lCtzf0)
+
+> *Note: This is the guide if you need to watch this.*
 
 ## 🔥 Variant Comparison
 
@@ -69,7 +74,7 @@
 
 ### **v2 Supported Platforms (Extended)**
 
-  * Epic Games Launcher (Soft bans)
+  * Epic Games Launcher like FORTNITE (Soft bans)
   * Origin / EA App & Ubisoft Connect
   * Deeper Discord/Social media device flags
   * Most indie game HWID protection systems
@@ -99,6 +104,5 @@ This project is intended to demonstrate how hardware identification can be manag
 
 -----
 
-**Developed with ❤️ by [Vultures](https://www.youtube.com/watch?v=QdYh2lCtzf0)**
+**Developed with ❤️ by [Vultures](https://www.google.com/search?q=https://github.com/jumpedoverjumpman)**
 
-http://googleusercontent.com/youtube_content/0
