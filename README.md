@@ -11,7 +11,7 @@
 -----
 ### 📺 Video Showcase
 
-[![Vult-RAT Showcase](https://img.youtube.com/vi/QdYh2lCtzf0/maxresdefault.jpg)](https://www.youtube.com/watch?v=QdYh2lCtzf0)
+[![Vult-RAT Showcase](https://img.youtube.com/vi/changehere/maxresdefault.jpg)](https://www.youtube.com/watch?v=changehere)
 
 > *Note: This is the guide if you need to watch this.*
 
